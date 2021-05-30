@@ -3,4 +3,5 @@
 ![Ömer's GitHub stats](https://github-readme-stats.vercel.app/api?username=omerturkgeldi&count_private=true&theme=radical&show_icons=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omerturkgeldi)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omerturkgeldi)
+https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=ruby
