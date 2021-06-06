@@ -16,13 +16,14 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" />][xing]
 [<img align="left" alt="turkgeldiomer | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="turkgeldiomer | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/duolingo.svg" />][instagram]
+[<img align="left" alt="turkgeldiomer | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/duolingo.svg" />][duolingo]
 
 <br />
 
 [linkedin]: https://www.linkedin.com/in/omerturkgeldi/
 [instagram]: https://instagram.com/turkgeldiomer
 [xing]: https://www.xing.com/profile/Oemer_TUeRKGELDI4/cv
+[duolingo]: https://www.duolingo.com/profile/ChicoGenio
 
 ### Languages and Tools:
 
