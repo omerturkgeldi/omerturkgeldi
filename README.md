@@ -2,7 +2,7 @@
 # Ömer Türkgeldi's GitHub
 
 - 🔭 I’m currently a Computer Engineering student at Manisa Celal Bayar University 💻
-- 🌱 I’m currently learning Javascript & React
+- 🌱 I’m currently learning Java, Javascript & React
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omerturkgeldi" alt="omerturkgeldi" /> </p>
 
