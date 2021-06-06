@@ -20,7 +20,8 @@
 
 <br />
 
-
+[linkedin]: https://www.linkedin.com/in/omerturkgeldi/
+[instagram]: https://instagram.com/turkgeldiomer
 
 ### Languages and Tools:
 
