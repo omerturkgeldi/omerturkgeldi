@@ -7,8 +7,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omerturkgeldi" alt="omerturkgeldi" /> </p>
 
 
-![Ömer's GitHub stats](https://github-readme-stats.vercel.app/api?username=omerturkgeldi&count_private=true&show_icons=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omerturkgeldi&hide=ruby,shell)
 
 ### Connect with me:
